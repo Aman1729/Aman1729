@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning *web development.*
 
-- 📫 How to reach me *aman.ece.1807@iiitbh.ac.in*
+- 📫 How to reach me *amansinghiitansgkp@gmail.com*
 
 
 <h3 align="left">Languages and Tools:</h3>
